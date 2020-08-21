@@ -6,7 +6,7 @@
 import mapboxgl from "mapbox-gl";
 
 export default {
-  name: "App",
+  name: "mapbox",
   mounted() {
     mapboxgl.accessToken =
       "pk.eyJ1Ijoia2JlbGxpb3VtIiwiYSI6ImNrZTRhcmF4cDAzaGszMW8wNDV2Z2QzZzcifQ.J5LPD_0NDU974meLRh5qBw";
